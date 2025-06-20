@@ -1,2 +1,2 @@
 # Data-analyst
-PowerBi
+Sql,PowerBi,Python
